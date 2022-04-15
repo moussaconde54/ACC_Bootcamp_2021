@@ -1,0 +1,25 @@
+body{
+    font-family: Roboto;
+}
+
+img{
+    width: 100%;
+}
+
+.container {
+    width: 800px;
+    margin: auto;
+    position: relative;
+}
+
+.text{
+    position: absolute;
+    bottom: 0;
+    background-color: grey;
+    color: white;
+    width: 100%;
+    padding: 20px;
+    overflow: hidden;
+    box-sizing: border-box;
+    opacity: 40%;
+}

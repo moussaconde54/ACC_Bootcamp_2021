@@ -1,0 +1,22 @@
+h1:hover{
+    background: purple;
+}
+
+button{
+
+}
+
+input:focus{
+    padding-bottom: 100px;
+    background: red;
+    outline: none;
+}
+
+button:active{
+    background: burlywood;
+    font-size: 40px;
+}
+
+h1:active{
+    font-size: 100px;
+}

@@ -1,0 +1,22 @@
+/* body {background-color: rgb(200, 255, 0);}
+#burger {color: red}
+#onions {color: green;}
+#fries {color: blue;}
+.strawberry {color: pink;}
+.blueberry {color: purple}
+p{
+    background-color: blue;
+    padding: 10px;
+    margin: 20px;
+    border: black 3px solid;
+} */
+
+/* *{background: yellow;} */
+
+/* li a{color: teal;}
+
+a[href="https://www.facebook.com/"]{color: orange;}
+input[type="text"]{color: plum;} */
+
+p:nth-of-type(3){background: red;}
+p:nth-of-type(3n){font-weight: bold;    font-size: 36px;}
